@@ -9,12 +9,20 @@ PROJECT LIVE LINK
 
 
  https://vanhis21.github.io/studio/
- LANGUAGES
+ 
+ 
+ 
+ 
+ 
+ 
+ LANGUAGES:
  
  
  HTML, CSS, JAVASCRIPT
- LICENCE
  
+ 
+ 
+ LICENCE:
  
  MIT
  2020
